@@ -1,3 +1,3 @@
-# react-z9gx4t
+# ReactAppOnAWSAmplify
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-z9gx4t)
+This is a basic React App made to execute a deployment on the AWS Cloud using AWS Amplify
